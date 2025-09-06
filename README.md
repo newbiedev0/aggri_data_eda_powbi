@@ -16,7 +16,7 @@ summary of findings from EDA:
 
 7)In west bengal the midnapur district is the largest rice producer with staggerin difference from other districts.
 
-8) after 2003 the wheat production in uttar pradesh increased consistently
+8) After 2003 the wheat production in uttar pradesh increased consistently
 
 9)finger millet production in india is in the pattern of decreasing steadily over last 50 years
 
